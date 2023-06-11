@@ -1,0 +1,11 @@
+export const incrementItem1 = "incrementItem1";
+export const decrementItem1 = "decrementItem1";
+export const removeItem1 = "removeItem1";
+export const addItem1 = "addItem1";
+export const ProductData1 = "ProductData1";
+export const toggleCart1 = "toggleCart1";
+export const removeItemFromList1 = "removeItemFromList1";
+export const AddProductForm1 = "AddProduct1";
+export const UpdateProductForm1 = "UpdateProduct1";
+export const toggleAddProductForm1 = "toggleAddProduct1";
+export const toggleUpdateProductForm1 = "toggleUpdateProduct1";
