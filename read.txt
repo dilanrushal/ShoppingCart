@@ -1,6 +1,7 @@
 "check this is REL_WS"
 
 <html>
+<textarea></textarea>
 </html>
 
 Rushal has modified again.....
